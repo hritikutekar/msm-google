@@ -1,5 +1,5 @@
 . ${ROOT_DIR}/${KERNEL_DIR}/build.config.common
-DEFCONFIG=sunfish_defconfig
+DEFCONFIG=nethunter_defconfig
 FILES="
 arch/arm64/boot/dtbo.img
 arch/arm64/boot/Image.lz4-dtb
